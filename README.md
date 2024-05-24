@@ -10,11 +10,12 @@ Hi there 👋
    https://www.linkedin.com/in/rahma-samy-34046a296
  
 My experiences are 🌱:
+
+
      1- title: "Full Stack development PHP&Laravel" 🔭,
       company_name: "AMIT Company in collaboration with Education for Employment (EFE)",
       date: "4-Feb 2024 - 28 March 2024",
-       "This internship program spans 320 hours, focusing on the development of both essential soft skills and Specialized technical expertise offers a unique opportunity to bridge the gap between theoretical 
-       knowledge and practical application."
+       "This internship program spans 320 hours, focusing on the development of both essential soft skills and Specialized technical expertise offers a unique opportunity to bridge the gap between theoretical knowledge and practical application."
        Breakdown :
         "Soft Skills Training (80 Hours): Sharpen my interpersonal, communication, teamwork, and problem-solving abilities to thrive in a professional environment.",
         "Developing and maintaining web applications using React.js and other related technologies.",

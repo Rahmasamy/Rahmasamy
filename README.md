@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about python,c++,php,react,anagular
 - 📫 How to reach me: 
   rahmasamy949@gmail.com
-  https://www.linkedin.com/in/rahma-samy-34046a296
+ 
 
 
 

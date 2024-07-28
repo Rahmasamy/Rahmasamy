@@ -31,7 +31,10 @@ Breakdown:
 >Implementing responsive design and ensuring cross-browser compatibility.
 
 Participating in code reviews and providing constructive feedback to other developers.
+
 🌟 **Job Worker Program at PepsiCo Egypt** 🔭
+
+
 Company: Vodafone in cooperation with Injaz Misr, the strategic partner Vodafone Egypt
 Date: 20 October 2023 - 10 Feb 2024
 

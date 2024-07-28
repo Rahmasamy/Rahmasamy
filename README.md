@@ -23,7 +23,7 @@ Date: 4-Feb 2024 - 28 March 2024
 
 This internship program spans 320 hours, focusing on the development of both essential soft skills and specialized technical expertise. It offers a unique opportunity to bridge the gap between theoretical knowledge and practical application.
 
-Breakdown:
+**Breakdown**:
 >Soft Skills Training (80 Hours): Sharpen interpersonal, communication, teamwork, and problem-solving abilities to thrive in a professional environment.
 >Technical Training:
 >Developing and maintaining web applications using React.js and other related technologies.
@@ -38,7 +38,7 @@ Participating in code reviews and providing constructive feedback to other devel
 Company: Vodafone in cooperation with Injaz Misr, the strategic partner Vodafone Egypt
 Date: 20 October 2023 - 10 Feb 2024
 
-Breakdown:
+**Breakdown**:
 >Soft Skills Section (40 Hours): Elevate professional persona with comprehensive soft skills training. Hone communication, leadership, adaptability, and critical thinking skills essential for a thriving career.
 >Data Engineering (40 Hours): Immerse in the world of data, mastering the art of collecting, processing, and analyzing information.
 >Cyber Security (30 Hours): Delve into the realm of cybersecurity, understanding the latest threats and safeguards. Learn to implement security measures, conduct risk assessments, and develop strategies to protect data.

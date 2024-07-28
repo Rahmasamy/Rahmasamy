@@ -17,42 +17,36 @@ Hi there 👋
  
 My experiences are 🌱:
 
+🌟 Full Stack Development PHP & Laravel Internship 🔭
+Company: AMIT Company in collaboration with Education for Employment (EFE)
+Date: 4-Feb 2024 - 28 March 2024
 
-     1- title: "Full Stack development PHP&Laravel" 🔭,
-      company_name: "AMIT Company in collaboration with Education for Employment (EFE)",
-      date: "4-Feb 2024 - 28 March 2024",
-       "This internship program spans 320 hours, focusing on the development of both essential soft skills and Specialized technical expertise offers a unique opportunity to bridge the gap between theoretical knowledge and practical application."
-       Breakdown :
-        "Soft Skills Training (80 Hours): Sharpen my interpersonal, communication, teamwork, and problem-solving abilities to thrive in a professional environment.",
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+This internship program spans 320 hours, focusing on the development of both essential soft skills and specialized technical expertise. It offers a unique opportunity to bridge the gap between theoretical knowledge and practical application.
 
+Breakdown:
+Soft Skills Training (80 Hours): Sharpen interpersonal, communication, teamwork, and problem-solving abilities to thrive in a professional environment.
+Technical Training:
+Developing and maintaining web applications using React.js and other related technologies.
+Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.
+Implementing responsive design and ensuring cross-browser compatibility.
+Participating in code reviews and providing constructive feedback to other developers.
+🌟 Job Worker Program at PepsiCo Egypt 🔭
+Company: Vodafone in cooperation with Injaz Misr, the strategic partner Vodafone Egypt
+Date: 20 October 2023 - 10 Feb 2024
 
+Breakdown:
+Soft Skills Section (40 Hours): Elevate professional persona with comprehensive soft skills training. Hone communication, leadership, adaptability, and critical thinking skills essential for a thriving career.
+Data Engineering (40 Hours): Immerse in the world of data, mastering the art of collecting, processing, and analyzing information.
+Cyber Security (30 Hours): Delve into the realm of cybersecurity, understanding the latest threats and safeguards. Learn to implement security measures, conduct risk assessments, and develop strategies to protect data.
+🌟 Machine and Deep Learning Internship 🔭
+Company: National Research Institute
+Date: Jan 2022 - Jan 2023
+
+As an intern at the National Research Institute for Machine and Deep Learning (NRI-MDL), I am immersed in a dynamic program that provides hands-on experience in artificial intelligence. Guided by experts, I delve into both fundamental theories and advanced techniques, collaborating with peers on real-world projects. This internship fosters critical thinking and problem-solving skills while offering networking opportunities with industry leaders.
+
+Feel free to add this formatted information to your GitHub README file to showcase your professional experiences with a structured and engaging layout.
     
-    2- title: "Job Worker Program PepsiCo Egypt the second version of the “Work Worker program inCooperation with Injaz Misr, the strategic partner “Vodafone Egypt”:" 🔭,
-      company_name: "vodafone",
-      date: " 20 october 2023 - 10 Feb 2024",
-      points: 
-        "Soft Skills Section (40 Hours) which Elevate my professional persona with comprehensive soft skills training. Hone communication, leadership, adaptability, and critical thinking skills essential for a thriving career",
-        "Data Engineering (40 Hours):Immerse me in the world of data, mastering the art of collecting, processing, and analyzing information.",
-        "Cyber security (30 Hours):Delve into the realm of cybersecurity, understanding the latest threats and safeguards. Learn to implement security measures, conduct risk assessments, and develop strategies to 
-        protect data.",
-      
-   
-    3- title: "Machine and deep learning internship" 🔭,
-      company_name: "National Research Institute",
-    
-      date: "Jan 2022 - Jan 2023",
-      points:
-        "As an intern at the National Research Institute for Machine and Deep Learning (NRI-MDL), I am immersed in a dynamic program that provides hands-on experience in artificial intelligence. Guided by experts",
-        "delveing into both fundamental theories and advanced techniques, collaborating with peers on real-world projects.",
-        "This internship fosters critical thinking and problem-solving skills while offering networking opportunities with industry leaders.",
-      
-   
-   
-
+     
 
 
 

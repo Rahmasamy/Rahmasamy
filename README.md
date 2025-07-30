@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahma Samy</h1>
 <h3 align="center">A professional full stack developer from Egypt</h3>
 
+<p><img align="center" src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" alt="rahmasamy" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmasamy&label=Profile%20views&color=0e75b6&style=flat" alt="rahmasamy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmasamy" alt="rahmasamy" /></a> </p>
@@ -34,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmasamy&show_icons=true&locale=en" alt="rahmasamy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmasamy&" alt="rahmasamy" /></p>
+

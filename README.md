@@ -37,6 +37,9 @@
   <a href="https://linkedin.com/in/rahma-samy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahma Samy | LinkedIn" height="30" width="40" />
   </a>
+    <a href="rahmasamy949@gmail.com" target="_blank">
+    <img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21939811/newgmaillogo.jpg?quality=90&strip=all&crop=0,0,100,100" alt="Rahma Samy | Gmail" height="30" width="40" />
+  </a>
   <a href="https://kaggle.com/rahmasamy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Rahma Samy | Kaggle" height="30" width="40" />
   </a>

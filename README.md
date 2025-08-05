@@ -5,9 +5,7 @@
   <img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" alt="Rahma Samy Coding" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahmasamy&label=Profile%20views&color=0e75b6&style=flat" alt="rahmasamy" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

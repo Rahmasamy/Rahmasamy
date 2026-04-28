@@ -88,7 +88,6 @@ I'm a passionate full-stack developer who loves building products at the interse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahmasamy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rahma's GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmasamy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 
 </div>
